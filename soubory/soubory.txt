@@ -1,9 +1,0 @@
-jmeno     pripona   datum     atribut   velikost
-config    sys       20040815  H         205
-autoexec  bat       20041022  R         158
-io        sys       20040810  S         15678
-msdos     sys       20040810  S         21450
-dopis1    txt       20050303  A         3005
-dopis2    txt       20050819  R         4950
-foto      jpg       20050610  A         85698
-logo      gif       20041231  A         43705

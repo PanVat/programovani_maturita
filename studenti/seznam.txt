@@ -1,9 +1,0 @@
-jmeno;prijmeni;pohlavi;narozeni;absence
-Martin;Novak;M;16.8.1987;0
-Petr;Krizek;M;23.4.1988;25
-Karla;Slepickova;Z;15.10.1988;68
-Miroslava;Drobna;Z;1.6.1987;52
-Josef;Pouzar;M;29.8.1987;14
-Jana;Svedova;Z;17.11.1987;108
-Lenka;Drapalova;Z;7.2.1988;7
-Romana;Bambulkova;Z;16.4.1988;96
